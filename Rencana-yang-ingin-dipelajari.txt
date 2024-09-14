@@ -1,7 +1,7 @@
 Hal - hal yang ingin saya perdalam lagi dan/atau pelajari :
 
 Programming :
-1. Golang
+1. C++
 2. Kotlin
 
 Hacking :
