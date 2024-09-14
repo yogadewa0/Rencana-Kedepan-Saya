@@ -1,3 +1,9 @@
 Hal - hal yang ingin saya perdalam lagi dan/atau pelajari :
+
+Programming :
 1. Golang
 2. Kotlin
+
+Hacking :
+1. Mobile Hacking
+2. Web Hacking
