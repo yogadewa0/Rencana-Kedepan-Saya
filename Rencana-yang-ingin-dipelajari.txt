@@ -1,0 +1,3 @@
+Hal - hal yang ingin saya perdalam lagi dan/atau pelajari :
+1. Golang
+2. Kotlin
