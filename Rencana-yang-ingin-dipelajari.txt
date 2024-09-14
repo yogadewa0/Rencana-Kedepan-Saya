@@ -5,5 +5,7 @@ Programming :
 2. Kotlin
 
 Hacking :
-1. Mobile Hacking
+1. Desktop Hacking
 2. Web Hacking
+   - Cookies
+   - Session
